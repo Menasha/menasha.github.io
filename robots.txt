@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: menasha.github.io/sitemap.xml
+Sitemap: https://menasha.github.io/sitemap.xml
